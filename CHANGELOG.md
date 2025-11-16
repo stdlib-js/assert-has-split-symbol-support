@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-10)
+## Unreleased (2025-11-16)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`8518e62`](https://github.com/stdlib-js/stdlib/commit/8518e622078185594b71f2ecf0ae34701e763733) - make CLI scripts executable [(#8542)](https://github.com/stdlib-js/stdlib/pull/8542)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8518e62`](https://github.com/stdlib-js/stdlib/commit/8518e622078185594b71f2ecf0ae34701e763733) - **fix:** make CLI scripts executable [(#8542)](https://github.com/stdlib-js/stdlib/pull/8542) _(by stdlib-bot)_
 -   [`38e4338`](https://github.com/stdlib-js/stdlib/commit/38e433821d47feaeb98a76eba305d54c45371c20) - **feat:** add `assert/has-split-symbol-support` [(#8476)](https://github.com/stdlib-js/stdlib/pull/8476) _(by Divyanshu, Athan Reines)_
 
 </details>
