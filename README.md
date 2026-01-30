@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@esm/index.mjs';
+import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@v0.1.0-esm/index.mjs';
 ```
 
 #### hasSplitSymbolSupport()
@@ -70,7 +70,7 @@ var bool = hasSplitSymbolSupport();
 <body>
 <script type="module">
 
-import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@esm/index.mjs';
+import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@v0.1.0-esm/index.mjs';
 
 var bool = hasSplitSymbolSupport();
 if ( bool ) {
