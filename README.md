@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@deno/mod.js';
+import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@v0.1.0-deno/mod.js';
 ```
 
 #### hasSplitSymbolSupport()
@@ -65,7 +65,7 @@ var bool = hasSplitSymbolSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@deno/mod.js';
+import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@v0.1.0-deno/mod.js';
 
 var bool = hasSplitSymbolSupport();
 if ( bool ) {
