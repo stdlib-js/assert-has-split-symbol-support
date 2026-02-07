@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-has-split-symbol-support/tags). For example,
+
+```javascript
 import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@v0.1.1-deno/mod.js';
 ```
 
@@ -65,7 +70,7 @@ var bool = hasSplitSymbolSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@v0.1.1-deno/mod.js';
+import hasSplitSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-split-symbol-support@deno/mod.js';
 
 var bool = hasSplitSymbolSupport();
 if ( bool ) {
