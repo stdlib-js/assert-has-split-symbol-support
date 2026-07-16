@@ -1,5 +1,5 @@
-"use strict";var i=function(s,r){return function(){return r||s((r={exports:{}}).exports,r),r.exports}};var e=i(function(y,o){
-var p=require('@stdlib/assert-has-own-property/dist'),t=require('@stdlib/symbol-ctor/dist');function u(){return typeof t=="function"&&typeof t("foo")=="symbol"&&p(t,"split")&&typeof t.split=="symbol"}o.exports=u
-});var l=e();module.exports=l;
+"use strict";var p=function(s,r){return function(){try{return r||s((r={exports:{}}).exports,r),r.exports}catch(i){throw (r=0, i)}};};var e=p(function(a,o){
+var u=require('@stdlib/assert-has-own-property/dist'),t=require('@stdlib/symbol-ctor/dist');function l(){return typeof t=="function"&&typeof t("foo")=="symbol"&&u(t,"split")&&typeof t.split=="symbol"}o.exports=l
+});var n=e();module.exports=n;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
